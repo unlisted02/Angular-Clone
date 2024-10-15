@@ -1,15 +1,15 @@
 {
   "id": "140892",
   "name": "Angular Jira Clone",
-  "url": "https://github.com/trungk18/jira-clone-angular",
-  "description": "A Jira clone app built with Angular 10, Akita and ng-zorro - by trungk18",
+  "url": "https://github.com/unlisted02/Angular-Clone",
+  "description": "A Jira clone app built with Angular 10, Akita and ng-zorro - by Unlisted",
   "category": "Software",
   "createdAt": "2020-06-12T16:00:00.000Z",
   "updatedAt": "2020-06-13T16:00:00.000Z",
   "users": [
     {
       "id": "d65047e5-f4cf-4caa-9a38-6073dcbab7d1",
-      "name": "Trung Vo",
+      "name": "Unlisted",
       "avatarUrl": "https://res.cloudinary.com/dvujyxh7e/image/upload/c_scale,w_48/v1593253478/trung-vo_bioxmc.png",
       "projectId": "140892"
     },
@@ -68,15 +68,8 @@
     {
       "type": "Story",
       "priority": "Highest",
-      "title": "Angular Spotify 🎧",
-      "description": "<h3>Hey Angular people, what's up? 😆</h3><p>I wanted to introduce you my latest application: <strong>Angular Spotify.</strong></p><p><br></p><p>It is a simple Spotify client built with Angular 11, Nx workspace, ngrx, TailwindCSS and ng-zorro.</p><p><br></p><p>Check out the&nbsp;live application&nbsp;-&gt; <a href=\"https://spotify.trungk18.com\" rel=\"noopener noreferrer\" target=\"_blank\">https://spotify.trungk18.com</a></p><p><span style=\"color: var(--color-text-link);\">Source code: </span><a href=\"https://github.com/trungk18/angular-spotify\" rel=\"noopener noreferrer\" target=\"_blank\">https://github.com/trungk18/angular-spotify</a></p><p><br></p><p>Spotify premium&nbsp;is required for the Web Playback SDK to play music. If you are using a free account, you can still browse the app, but it couldn't play the music. Sorry about that&nbsp;🤣</p><h2><br></h2><p><a href=\"https://github.com/trungk18/angular-spotify/blob/main/libs/web/shared/assets/src/assets/readme/angular-spotify-demo-short.gif\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: var(--color-text-link); background-color: var(--color-bg-primary);\"><img src=\"https://github.com/trungk18/angular-spotify/raw/main/libs/web/shared/assets/src/assets/readme/angular-spotify-demo-short.gif\" alt=\"Angular Spotify Demo\"></a></p><p><br></p><p><br></p><p><a href=\"https://github.com/trungk18/angular-spotify/blob/main/libs/web/shared/assets/src/assets/readme/angular-spotify-visualization.gif\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: var(--color-text-link); background-color: var(--color-bg-primary);\"><img src=\"https://github.com/trungk18/angular-spotify/raw/main/libs/web/shared/assets/src/assets/readme/angular-spotify-visualization.gif\" alt=\"Angular Spotify Visualizer\"></a></p><p><br></p>",
-      "reporterId": "d65047e5-f4cf-4caa-9a38-6073dcbab7d1",
-      "userIds": ["d65047e5-f4cf-4caa-9a38-6073dcbab7d1"],
-      "id": "2021",
-      "status": "Backlog",
-      "createdAt": "2021-04-28T14:56:55.049Z",
-      "updatedAt": "2021-04-28T14:56:57.748Z",
-      "listPosition": 1
+      "title": "Angular Spotify 🎧"
+    
     },
     {
       "type": "Story",
